@@ -1,11 +1,9 @@
 <?php
 
 echo 'Hello!';
-echo 'Hello!'
-    xfjcgj
-    xfjkj
-    j
-    x5rurx
+echo "Hello Git2!";
+echo "branch master";
+
     
 echo "Hello, new branch!";
 ?>
